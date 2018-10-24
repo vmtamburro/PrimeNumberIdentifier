@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540399504 source:e:\lab 6 prime numbers\main.cpp
+	<iostream>
+	"primenum.h"
+	<fstream>
+
+1540391654 e:\lab 6 prime numbers\primenum.h
+	<iostream>
+
